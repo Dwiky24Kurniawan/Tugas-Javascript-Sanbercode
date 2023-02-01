@@ -1,0 +1,22 @@
+{
+  "name": "tugas-javascript-sanbercode",
+  "version": "1.0.0",
+  "description": "Tugas Javascript Sanbercode Quality Assurance Batch 41",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwiky24Kurniawan/Tugas-Javascript-Sanbercode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwiky24Kurniawan/Tugas-Javascript-Sanbercode/issues"
+  },
+  "homepage": "https://github.com/Dwiky24Kurniawan/Tugas-Javascript-Sanbercode#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
