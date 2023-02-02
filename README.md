@@ -6,11 +6,11 @@ soal2.js adalah menjumlahkan value dari array of object key
 
 Installation
 
-npm init
-npm install
-npm install prompt-sync
+- npm init
+- npm install
+- npm install prompt-sync
 
 How to run
 
-node soal1.js
-node soal1.js
+- node soal1.js
+- node soal1.js
