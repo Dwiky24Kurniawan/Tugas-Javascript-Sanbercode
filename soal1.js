@@ -14,5 +14,5 @@ if (!isNaN(angka) && angka >= 0) {
     console.log("Tidak bisa input bilangan ganjil"); // maka ganjil
   }
 } else { // jika inputan salah
-  console.log("Input salah. Tidak bisa input bilangan negatif.");
+  console.log("Input salah atau tidak bisa input bilangan negatif.");
 }
