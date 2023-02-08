@@ -1,6 +1,6 @@
 # Tugas-Javascript-Sanbercode
 Nama : Dwiky Kurniawan
-Ini adalah tugas javascript bootcamp sanbercode quality assurance batch 41 yang terdiri dari 2 soal.
+- Ini adalah tugas javascript bootcamp sanbercode quality assurance batch 41 yang terdiri dari 2 soal.
 - soal1.js adalah menghitung akar kuadrat dari inputan berupa bilangan genap.
 - soal2.js adalah menjumlahkan value dari array of object key
 
